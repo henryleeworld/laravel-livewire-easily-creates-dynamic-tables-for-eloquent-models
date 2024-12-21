@@ -1,4 +1,4 @@
-# Laravel 10 Livewire 輕鬆為 Eloquent 模型建立動態資料表
+# Laravel 11 Livewire 輕鬆為 Eloquent 模型建立動態資料表
 
 引入 ramonrietdijk 的 livewire-tables 套件來擴增輕鬆為 Eloquent 模型建立動態資料表，它在建立時考慮到了簡單性和效率，同時仍然能夠擴充以滿足您的需求。
 
@@ -35,5 +35,5 @@ $ npm run build
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/e4k3VmW.png)
+![](https://i.imgur.com/BNCIKKS.png)
 > 輕鬆實作出功能豐富的資料表
