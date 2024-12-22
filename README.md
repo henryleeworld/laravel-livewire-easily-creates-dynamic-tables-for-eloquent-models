@@ -35,5 +35,5 @@ $ npm run build
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/BNCIKKS.png)
+![](https://i.imgur.com/OS2ICAq.png)
 > 輕鬆實作出功能豐富的資料表
